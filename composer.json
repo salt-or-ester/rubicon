@@ -1,0 +1,23 @@
+{
+    "name": "sailboat-anon/rubicon",
+    "type": "naughty-application",
+    "description": "Tripcode Testing Suite",
+    "keywords": ["tripcode","4chan","8chan","8kun","basketweaving"],
+    "homepage": "https://github.com/sailboat-anon",
+    "authors": [
+        {
+            "name": "sailboat-anon",
+            "email": "sailboatanon@protonmail.com",
+            "homepage": "https://www.patreon.com/sailboatanon"
+        }
+    ],
+    "require": {
+        "php": "^8",
+        "fostam/getopts": "^1.2",
+        "yidas/brute-force-attacker": "^1.0",
+        "adbario/php-dot-notation": "^2.2",
+        "rubix/tensor": "^2.2",
+        "rubix/ml": "^0.4.1",
+        "predis/predis": "^1.1"
+    }
+}

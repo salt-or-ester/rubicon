@@ -1,23 +1,20 @@
 {
-    "name": "sailboat-anon/rubicon",
+    "name": "salt-or-ester/rubicon",
     "type": "naughty-application",
-    "description": "Tripcode Testing Suite",
+    "description": "tripcode testing suite",
     "keywords": ["tripcode","4chan","8chan","8kun","basketweaving"],
-    "homepage": "https://github.com/sailboat-anon",
+    "homepage": "https://github.com/salt-or-ester/rubicon",
     "authors": [
         {
-            "name": "sailboat-anon",
-            "email": "sailboatanon@protonmail.com",
-            "homepage": "https://www.patreon.com/sailboatanon"
+            "name": "salt-or-ester",
+            "email": "salt-or-ester@protonmail.com",
+            "homepage": "https://github.com/salt-or-ester/"
         }
     ],
     "require": {
         "php": "^8",
         "fostam/getopts": "^1.2",
         "yidas/brute-force-attacker": "^1.0",
-        "adbario/php-dot-notation": "^2.2",
-        "rubix/tensor": "^2.2",
-        "rubix/ml": "^0.4.1",
-        "predis/predis": "^1.1"
+        "adbario/php-dot-notation": "^2.2"
     }
 }

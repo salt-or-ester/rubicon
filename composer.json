@@ -1,0 +1,18 @@
+{
+    "name": "salt-or-ester/rubicon",
+    "type": "naughty-application",
+    "description": "tripcode testing suite",
+    "keywords": ["tripcode","4chan","8chan","8kun","basketweaving"],
+    "homepage": "https://github.com/salt-or-ester/rubicon",
+    "authors": [
+        {
+            "name": "salt-or-ester",
+            "email": "salt-or-ester@protonmail.com",
+            "homepage": "https://github.com/salt-or-ester"
+        }
+    ],
+    "require": {
+        "php": "^8",
+        "predis/predis": "^1.1"
+    }
+}

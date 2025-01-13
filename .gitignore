@@ -1,0 +1,8 @@
+test/*
+vendor/*
+dump.rdb
+composer.lock
+output/*.json
+scrapes
+wordlists
+ui/scratch.php
